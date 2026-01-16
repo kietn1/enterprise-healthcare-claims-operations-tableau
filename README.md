@@ -47,4 +47,30 @@ Datasets can be dowdloaded [here](https://github.com/kietn1/enterprise-healthcar
   
 <img width="1886" height="889" alt="claims" src="https://github.com/user-attachments/assets/c820b9ee-4fd8-4f0e-a8ba-792953ab08cf" />
 
+## How the Dashboard Answers the Business Questions
 
+**1. Are healthcare claims being processed within SLA targets across all service types and providers?**  
+The SLA Compliance KPI and Average Processing Days metric provide an immediate view of overall SLA performance. Reference lines and threshold indicators highlight whether processing times meet defined SLA targets at an aggregate level.
+
+**2. Which service lines or providers are driving the longest processing times and contributing most to SLA breaches?**  
+Provider-level and service-type breakdowns surface variability in average processing days. Bar charts ranked by processing time make it easy to identify providers and services that exceed SLA thresholds and contribute disproportionately to delays.
+
+**3. Where are the largest cost and claim volume concentrations, and how are they trending over time?**  
+Claims volume trends and service-type distribution charts show how demand and workload change over time. These views help pinpoint high-volume and high-impact areas that drive operational complexity and resource strain.
+
+## Recommendations
+
+- **Prioritize SLA remediation for underperforming providers**  
+  Focus operational reviews and process improvements on providers with average processing times exceeding SLA targets, as they account for a disproportionate share of delays.
+
+- **Allocate resources based on service complexity and volume**  
+  Inpatient and emergency services exhibit higher processing times and volumes, indicating a need for targeted staffing, automation, or workflow optimization in these areas.
+
+- **Strengthen backlog monitoring and early-warning indicators**  
+  Use backlog aging and SLA trend metrics to proactively identify emerging risks before SLA breaches accumulate.
+
+- **Standardize SLA performance tracking across regions and plans**  
+  Ensure consistent KPI definitions and thresholds are applied enterprise-wide to enable fair comparison and governance.
+
+- **Leverage trend analysis for capacity planning**  
+  Use historical volume and processing trends to anticipate seasonal spikes and adjust operational capacity in advance.
