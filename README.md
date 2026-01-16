@@ -1,6 +1,6 @@
 # Enterprise Healthcare Claims Operations Dashboard (Tableau)
 
-<img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/566fb6bf-e0b2-4bcc-b6b7-14c971270b25" />
+<img width="1254" height="836" alt="image" src="https://github.com/user-attachments/assets/6355efb2-1dec-4205-9bfa-6d255577d7c5" />
 
 ## Project Background
 Healthcare organizations process large volumes of claims across multiple service lines, providers, and member populations. As claim volumes grow, operations teams face increasing pressure to maintain processing efficiency, meet SLA targets, and control medical costs while ensuring consistent reporting across business units.
