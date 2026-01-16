@@ -2,6 +2,7 @@
 
 <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/566fb6bf-e0b2-4bcc-b6b7-14c971270b25" />
 
+
 Healthcare organizations process large volumes of claims across multiple service lines, providers, and member populations. As claim volumes grow, operations teams face increasing pressure to maintain processing efficiency, meet SLA targets, and control medical costs while ensuring consistent reporting across business units.
 
 This project simulates an enterprise healthcare environment and delivers a Tableau dashboard built to support operational oversight at scale. 
